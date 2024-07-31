@@ -16,6 +16,17 @@ Research Assistant, The Centre for Quantitative Medicine (CQM)
 
 # Publications
 
+- **Federated Learning for Clinical Structured Data: A Benchmark Comparison of Engineering and Statistical Approaches**  
+_arXiv_, 2024. [Link](https://arxiv.org/abs/2311.03417)
+
+
+- **Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture**  
+  _Cell Reports Medicine_, 2024. [Link](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00042-9)
+
+- **Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist**  
+_arXiv_, 2024. [Link](https://arxiv.org/abs/2311.02107)
+
+
 # Resume
 
 # Contact
