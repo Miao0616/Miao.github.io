@@ -1,4 +1,4 @@
-# Home
+# About Me
 
 # Education
 ### National University of Singapore
