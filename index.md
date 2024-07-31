@@ -1,4 +1,5 @@
 # About Me
+Specializing in statistics and AI for medical and health-related data. Research focuses on developing advanced methodologies to enhance healthcare outcomes through data analysis
 
 # Education
 ### National University of Singapore
