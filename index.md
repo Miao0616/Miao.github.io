@@ -28,6 +28,9 @@ _arXiv_, 2024. [Link](https://arxiv.org/abs/2407.11034)
 - **Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist**  
 _arXiv_, 2024. [Link](https://arxiv.org/abs/2311.02107)
 
+- **Towards Clinical AI Fairness: Filling Gaps in the Puzzle**  
+_arXiv_, 2024. [Link](https://arxiv.org/abs/2405.17921)
+
 
 # Resume
 
