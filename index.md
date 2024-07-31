@@ -12,6 +12,7 @@ Bachelor of Science in Statistics, July 2021
 Research Assistant, The Centre for Quantitative Medicine (CQM)
 
 *January 2023 – Present*
+
 ---
 
 # Publications
