@@ -1,7 +1,7 @@
 title: Miao Di
 logo: /assets/img/logo.png
 description: Personal Page.
-# show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
