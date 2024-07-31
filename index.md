@@ -14,6 +14,8 @@ Research Assistant, The Centre for Quantitative Medicine (CQM)
 
 *January 2023 – Present*
 
+For more information about the lab, visit the [Digital Medicine Lab's homepage](https://blog.nus.edu.sg/liunan/).
+
 
 
 # Publications
