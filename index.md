@@ -12,9 +12,11 @@ Bachelor of Science in Statistics, July 2021
 ### Duke-NUS Medical School
 Research Assistant, The Centre for Quantitative Medicine (CQM)
 
+Based at the [Digital Medicine Lab](https://blog.nus.edu.sg/liunan/) under Nan Liu
+
 *January 2023 – Present*
 
-For more information about the lab, visit the [Digital Medicine Lab's homepage](https://blog.nus.edu.sg/liunan/).
+
 
 
 
