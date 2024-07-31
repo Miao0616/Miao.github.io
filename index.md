@@ -19,3 +19,5 @@ Research Assistant, The Centre for Quantitative Medicine (CQM)
 # Resume
 
 # Contact
+
+di7miao@gmail.com
