@@ -1,6 +1,7 @@
-title: Minimal theme
+title: Miao Di
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Personal Page.
+# show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
