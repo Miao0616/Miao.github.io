@@ -27,6 +27,9 @@ _arXiv_, 2024. [Link](https://arxiv.org/abs/2407.11034)
 - **Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture**  
   _Cell Reports Medicine_, 2024. [Link](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00042-9)
 
+  - **Developing Federated Time-to-Event Scores Using Heterogeneous Real-World Survival Data**  
+_arXiv_, 2024. [Link](https://arxiv.org/abs/2403.05229)
+
 - **Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist**  
 _arXiv_, 2024. [Link](https://arxiv.org/abs/2311.02107)
 
