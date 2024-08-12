@@ -2,14 +2,6 @@
 
 Specializing in statistics and AI for medical and health-related data. Research focuses on developing advanced methodologies to enhance healthcare outcomes through data analysis
 
-# Education
-### National University of Singapore
-Master of Science in Statistics, January 2023
-### Beijing Normal University
-Bachelor of Science in Statistics, July 2021
-
-
-
 # Research Experience
 ### Duke-NUS Medical School
 
@@ -17,6 +9,11 @@ Bachelor of Science in Statistics, July 2021
 
 Research Assistant, The Centre for Quantitative Medicine (CQM), based at the [Digital Medicine Lab](https://blog.nus.edu.sg/liunan/) under Nan Liu
 
+# Education
+### National University of Singapore
+Master of Science in Statistics, January 2023
+### Beijing Normal University
+Bachelor of Science in Statistics, July 2021
 
 # Publications
 
