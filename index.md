@@ -41,6 +41,8 @@ _arXiv_, 2024. [Link](https://arxiv.org/abs/2405.17921)
 
 # Resume
 
+[View my resume here](assets/MiaoDi_Resume.pdf)
+
 # Contact
 
 [di7miao@gmail.com](mailto:di7miao@gmail.com)
