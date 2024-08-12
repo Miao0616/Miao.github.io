@@ -11,9 +11,9 @@ Research Assistant, The Centre for Quantitative Medicine (CQM), based at the [Di
 
 # Education
 ### National University of Singapore
-Master of Science in Statistics, January 2023
+Master of Science in Statistics, *January 2023*
 ### Beijing Normal University
-Bachelor of Science in Statistics, July 2021
+Bachelor of Science in Statistics, *July 2021*
 
 # Publications
 
