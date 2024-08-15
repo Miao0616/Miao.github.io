@@ -6,9 +6,5 @@ google_analytics:
 theme: jekyll-theme-minimal
 show_logo: false
 
-links:
-  - title: LinkedIn
-    url: www.linkedin.com/in/di-miao-855468224
-
 github:
   is_project_page: false
