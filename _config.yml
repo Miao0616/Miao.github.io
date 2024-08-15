@@ -1,10 +1,9 @@
 title: Miao Di
-logo: assets/img/photo.jpeg
+# logo: assets/img/photo.jpeg
 description: Personal Page.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-show_logo: false
 
 github:
   is_project_page: false
