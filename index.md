@@ -46,3 +46,5 @@ _arXiv_, 2024. [Link](https://arxiv.org/abs/2405.17921)
 # Contact
 
 [di7miao@gmail.com](mailto:di7miao@gmail.com)
+
+[LinkedIn Profile](https://www.linkedin.com/in/di-miao-855468224)
