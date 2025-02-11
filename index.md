@@ -5,7 +5,7 @@ Specializing in statistics and AI for medical and health-related data. Research 
 # Research Experience
 ### Duke-NUS Medical School
 
-*January 2023 – Present*
+*January 2023 – January 2025*
 
 Research Assistant, The Centre for Quantitative Medicine (CQM), based at the [Digital Medicine Lab](https://blog.nus.edu.sg/liunan/) under Nan Liu
 
