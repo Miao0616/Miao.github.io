@@ -18,7 +18,7 @@ Bachelor of Science in Statistics, *July 2021*
 # Publications
 
 - **Federated Learning in Healthcare: A Benchmark Comparison of Engineering and Statistical Approaches for Structured Data Analysis**  
-_HEALTH DATA SCIENCE_, 2024. [Link](https://spj.science.org/doi/full/10.34133/hds.0196)
+_HEALTH DATA SCIENCE_, 2024. [link](https://spj.science.org/doi/full/10.34133/hds.0196)
 
 - **FairFML: Fair Federated Machine Learning with a Case Study on Reducing Gender Disparities in Cardiac Arrest Outcome Prediction**
 _arvix_, 2024. [link](https://arxiv.org/abs/2410.17269)
