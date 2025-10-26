@@ -24,7 +24,7 @@ _HEALTH DATA SCIENCE_, 2024. [Link](https://spj.science.org/doi/full/10.34133/hd
 _arvix_, 2024. [Link](https://arxiv.org/abs/2410.17269)
 
 - **Bridging Data Gaps in Healthcare: A Scoping Review of Transfer Learning in Biomedical Data Analysis**  
-_arXiv_, 2024. [Link](https://arxiv.org/abs/2407.11034)
+  _HEALTH DATA SCIENCE_, 2024. [Link](https://spj.science.org/doi/10.34133/hds.0321)
 
 - **Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture**  
   _Cell Reports Medicine_, 2024. [Link](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00042-9)
