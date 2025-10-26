@@ -21,7 +21,8 @@ Bachelor of Science in Statistics, *July 2021*
 _HEALTH DATA SCIENCE_, 2024. [Link](https://spj.science.org/doi/full/10.34133/hds.0196)
 
 - **FairFML: Fair Federated Machine Learning with a Case Study on Reducing Gender Disparities in Cardiac Arrest Outcome Prediction**
-_arvix_, 2024. [Link](https://arxiv.org/abs/2410.17269)
+  
+  _npj Health Systems_, 2024. [Link](https://doi.org/10.1038/s44401-025-00035-2)
 
 - **Bridging Data Gaps in Healthcare: A Scoping Review of Transfer Learning in Biomedical Data Analysis**  
   _HEALTH DATA SCIENCE_, 2024. [Link](https://spj.science.org/doi/10.34133/hds.0321)
