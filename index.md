@@ -1,6 +1,6 @@
 # About Me
 
-Specializing in statistics and AI for medical and health-related data. Research focuses on developing advanced methodologies to enhance healthcare outcomes through data analysis
+Specializing in statistics and AI for medical and health-related data. Research focuses on developing advanced methodologies to enhance healthcare outcomes through data analysis.
 
 # Research Experience
 ### Duke-NUS Medical School
